@@ -41,7 +41,7 @@ This project implements a client-server version of the classic Tic-Tac-Toe game 
 
 - **Multiplayer**: Play Tic-Tac-Toe with another player over a network.
 - **Custom Board Sizes**: Choose different board sizes (e.g., 3x3, 6x6).
-- **Custom Symbols**: Use 'S' and 'O' instead of the traditional 'X' and 'O'.
+- **Symbols**: Use 'S' for server and 'O' for client.
 - **Rematch Option**: Players can choose to play again after a game ends.
 
 ## 📁 Project Structure
