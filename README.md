@@ -1,5 +1,3 @@
-Here's a README file for your Tic-Tac-Toe client-server project:
-
 ---
 
 # 🎮 Tic-Tac-Toe Client-Server Game
