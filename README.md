@@ -4,13 +4,6 @@
 
 This project implements a client-server version of the classic Tic-Tac-Toe game using socket programming in Python. The game allows players to choose different board sizes and uses 'S' and 'O' symbols.
 
-## 📋 Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-
 ## 🚀 Installation
 
 1. **Clone the repository**:
