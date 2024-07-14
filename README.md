@@ -15,7 +15,7 @@ This project implements a client-server version of the classic Tic-Tac-Toe game 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-client-server.git
+    git clone [https://github.com/Manoj-Kumar-BV/Tic-Tac-Toe_Client-Server_Game]
     cd tic-tac-toe-client-server
     ```
 
